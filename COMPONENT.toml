@@ -3,7 +3,7 @@ name = "SigmaOS-multifunction-printer-support"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "multifunction-printer-support component"
+description = "Multifunction Printer Support"
 upstream = []
 
 [contract]
